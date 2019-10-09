@@ -192,7 +192,7 @@ h3{
 }
 #parte2pie {
 	
-	padding: 20px 0px 0px 270px;
+	padding: 20px 0px 0px 210px;
 	text-decoration: none;
 
 }
@@ -201,5 +201,8 @@ h3{
 	font-size: 37px;
 	list-style:none;
  	display: inline-block;
+ 	padding-right: 10px;
  
 }
+
+
